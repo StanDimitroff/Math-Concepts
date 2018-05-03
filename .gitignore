@@ -14,6 +14,9 @@ Diasyst/LayoutsPlayground.playground/Sources/Copied\ Files/
 ## Carthage
 Carthage
 
+# Jupyter Notebook
+.ipynb_checkpoints
+
 ## Various settings
 *.pbxuser
 !default.pbxuser
